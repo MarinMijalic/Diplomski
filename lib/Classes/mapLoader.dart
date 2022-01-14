@@ -1,4 +1,4 @@
-const GOOGLE_API_KEY='AIzaSyBHQuLgE8Rd6UwCegzsSAzU7hRuNxlDdeU';
+const GOOGLE_API_KEY='';//not on git
 
 
 class LocationHelper{
